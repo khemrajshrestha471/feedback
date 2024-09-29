@@ -10,3 +10,6 @@ export default function AuthProvider({
     </SessionProvider>
   )
 } 
+
+// 3:14:30
+// send email and check for otp in the email
